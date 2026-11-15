@@ -1,6 +1,10 @@
-# Token Radar
+# Token Radar — make.fun token-radar-01
 
-An entry for make.fun's **token-radar-01** bounty: a token launch radar that ranks
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/ssj6go/makefun-token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/ssj6go/makefun-token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+An entry for the [Build the best token launch radar](https://make.fun/bounty/token-radar-01) bounty on [make.fun](https://make.fun): a token launch radar that ranks
 protocols with no token yet by what their launch would be worth, and shows a reader
 how to farm each one.
 
